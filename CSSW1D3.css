@@ -8,12 +8,11 @@ h1{
     text-align: center
 }
 
-.friend p{
-    background-color:#000088;
-    color:whitesmoke;
-    text-transform: uppercase;
-    text-align: center;
+#button{
+height: 2rem; 
+width:5rem;
 }
+
 
 /* p {
  

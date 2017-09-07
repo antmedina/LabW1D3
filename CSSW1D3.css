@@ -13,11 +13,16 @@ height: 2rem;
 width:5rem;
 }
 
+h3{
+    text-transform: uppercase;
+    color:whitesmoke;
+    text-align: center;
+}
+p{
+    text-align:center;
+    color:whitesmoke;
 
-/* p {
- 
-} */
-
+}
 img {
     align-content: center;
     width: 25rem;
